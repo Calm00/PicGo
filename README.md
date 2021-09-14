@@ -1,1 +1,1 @@
-# PigGo
+# PicGo
